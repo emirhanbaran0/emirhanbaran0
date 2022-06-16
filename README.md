@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emirhanbaran0
 - 👀 I’m interested in Computer and Software Engineering , Programming Languages, New technologies
-- 🌱 I’m currently learning C Language ,Python Language , MS SQL, Java,Java DataBase Connectivity(JDBC)
+- 🌱 I’m currently learning C Language , MS SQL, Java,Java DataBase Connectivity(JDBC)
 - 💞️ I’m looking to collaborate on web technologies
 - 📫 How to reach me emir.baran255@gmail.com
 
