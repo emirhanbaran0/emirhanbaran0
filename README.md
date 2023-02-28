@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java,OOP,Java Spring,Log4j,MYSQL,JDBS,Java Hibernate**
 
--🙋‍♂️   Languages: Turkish (Native) , English(B1) , Italian(A2)
+-🙋‍♂️   Languages: Turkish (Native) , English(C1) , Italian(A2)
 
 - 🤝 I’m looking for help with **advanced java and java frameworks**
 
